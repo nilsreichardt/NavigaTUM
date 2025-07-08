@@ -1,4 +1,4 @@
-<script setup lang="ts">
+Lädt DatenLädt Daten<script setup lang="ts">
 import { Tab, TabGroup, TabList, TabPanel, TabPanels } from "@headlessui/vue";
 import { ClipboardDocumentCheckIcon, LinkIcon } from "@heroicons/vue/20/solid";
 import { CalendarDaysIcon } from "@heroicons/vue/24/outline";

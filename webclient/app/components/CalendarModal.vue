@@ -1,4 +1,4 @@
-<script setup lang="ts">
+Lädt DatenLädt Daten<script setup lang="ts">
 import type { CalendarFull } from "#components";
 import type { components } from "~/api_types";
 import { useCalendar } from "~/composables/calendar";
